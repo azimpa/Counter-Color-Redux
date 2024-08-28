@@ -1,0 +1,12 @@
+.header {
+    text-align: center;
+    border: 2px solid rgb(255, 0, 0);
+    box-sizing: border-box;
+    color: aqua;
+    background-color: black;
+    font-size: 24px; 
+    font-family: 'Arial', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    border-radius: 8px;
+}

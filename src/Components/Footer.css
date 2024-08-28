@@ -1,0 +1,11 @@
+.footer {
+    border: 2px solid springgreen;
+    box-sizing: border-box;
+    margin-top: 50px;
+    padding: 20px;
+    text-align: center; 
+    background-color: #f8f8f8; 
+    font-family: 'Arial', sans-serif;
+    color: #333;
+    border-radius: 10px; 
+}
